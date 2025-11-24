@@ -7,14 +7,18 @@
 
 ## Repository Structure
 
-├── Dashboard/ Halight Dashboard User Engagement
-├── Documentations/ - Data Preparation for power bi dashboard
-                    - Users Data Cleaning Report
-├── Exploratory_Analysis/ - Users.ipynb
-├── Halight Documents/ - Informative Radiator.docx
-                       - Tables.xlsx
-├── .gitignore # Git ignore file
-└── README.md # Project overview and documentation
+├── Dashboard/ 
+│   └── Halight Dashboard User Engagement/  
+├── Documentations/
+│   ├── Data Preparation for power bi dashboard  
+│   └── Users Data Cleaning Report.docx         
+├── Exploratory_Analysis/
+│   └── Users.ipynb                           
+├── Halight Documents/
+│   ├── Informative Radiator.docx            
+│   └── Tables.xlsx                          
+├── .gitignore
+└── README.md
 ---
 
 ## Features
