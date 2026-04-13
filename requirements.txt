@@ -1,9 +1,0 @@
-boto3
-awswrangler
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-flask
-python-dotenv
